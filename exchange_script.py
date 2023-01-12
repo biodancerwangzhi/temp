@@ -51,4 +51,4 @@ try:
 except:
   print( 'JP API error')
 
-send_email('青龙面板测试1')
+send_email('青龙面板测试')
